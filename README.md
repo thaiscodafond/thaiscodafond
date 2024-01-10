@@ -7,17 +7,17 @@ I'm Thaïs, nearing the end of my studies at IMT Atlantique in Brest, France. Se
 - 💻 Within my studies, I'm deeply involved in two standout projects: a web quiz game utilizing Node.js & Python with rabbitmq for communication, and a Unity-based digital twin of a physical miniature factory sourced from Fischertechnik.
 - 📘 Previously, I interned at Amundi, where I developed software for a web app that handled ESG KPIs in the realm of asset management.
 - ⚡ A little fun fact about me: I'm a gym enthusiast aiming to conquer a semi-marathon in 2024! 🏋️‍♀️
-<!--
-**thaiscodafond/thaiscodafond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will graduate with an engineering diploma in sofwtare engineering from IMT Atlantique in 2024, and i spent six months abroad at UCSD, where I studied computer science and cognitive science.
+
+### My stats 📊
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscodafond&layout=compact&theme=github_dark_dimmed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscodafond&layout=compact&theme=swift">
+  <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscodafond&layout=compact&theme=github_dark_dimmed" width=40%>
+</picture>
+</div>
