@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
 
+I'm Thaïs, nearing the end of my studies at IMT Atlantique in Brest, France. Seeking a six-month internship from April 2024 onward, I'm eager to dive into the world of software development, whether it's abroad or in Paris.
+
+- 🌱 My academic focus on distributed systems and parallel/concurrent computing, under my major "ILSD," has me captivated.
+- 🔭 I'm passionately building my portfolio website using Angular and Node.js, extending my learning beyond the classroom.
+- 💻 Within my studies, I'm deeply involved in two standout projects: a web quiz game utilizing Node.js & Python with rabbitmq for communication, and a Unity-based digital twin of a physical miniature factory sourced from Fischertechnik.
+- 📘 Previously, I interned at Amundi, where I developed software for a web app that handled ESG KPIs in the realm of asset management.
+- ⚡ A little fun fact about me: I'm a gym enthusiast aiming to conquer a semi-marathon in 2024! 🏋️‍♀️
 <!--
 **thaiscodafond/thaiscodafond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
