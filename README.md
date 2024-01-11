@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Thaïs, on the brink of completing my studies at IMT Atlantique in Brest, France. Seeking a six-month internship from April 2024 onward, I'm eager to dive into the world of software development, whether it's abroad or in Paris.
+I'm Thaïs, and I'm in my final year of engineering studies at IMT Atlantique in Brest, France. Seeking a six-month internship from April 2024 onward, I'm eager to dive into the world of software development, whether it's abroad or in Paris.
 
 - 🌱 My academic focus on distributed systems and parallel/concurrent computing, under my major "ILSD," has me captivated.
 - 🔭 I'm passionately building my portfolio website using Angular and Node.js, extending my learning beyond the classroom.
